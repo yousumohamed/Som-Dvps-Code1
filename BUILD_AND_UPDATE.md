@@ -9,8 +9,8 @@ This creates the fast, optimized version.
    build_release.bat
    ```
 2. **Wait** 15-20 minutes.
-3. **Find it:** `.build/vscode-win32-x64-min/`
-4. **Send it:** Zip the folder inside and send it.
+3. **Find it:** `../VSCode-win32-x64` (One folder up from `vscode`, usually `C:\code\VSCode-win32-x64`)
+4. **Send it:** Zip that folder and send it.
 
 ---
 
