@@ -1,0 +1,413 @@
+﻿node.exe : npm warn Unknown 
+project config "disturl". 
+This will stop working in 
+the next major version of 
+npm.
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+    + CategoryInfo          
+    : NotSpecified: (npm w  
+  arn Unknow...version of   
+  npm.:String) [], Remot    
+eException
+    + FullyQualifiedErrorId 
+    : NativeCommandError
+ 
+npm warn Unknown project 
+config "target". This will 
+stop working in the next 
+major version of npm.
+npm warn Unknown project 
+config "ms_build_id". This 
+will stop working in the 
+next major version of npm.
+npm warn Unknown project 
+config "runtime". This will 
+stop working in the next 
+major version of npm.
+npm warn Unknown project 
+config "build_from_source". 
+This will stop working in 
+the next major version of 
+npm.
+npm warn Unknown project 
+config "timeout". This will 
+stop working in the next 
+major version of npm.
+npm warn deprecated 
+osenv@0.1.5: This package 
+is no longer supported.
+npm warn deprecated 
+inflight@1.0.6: This module 
+is not supported, and leaks 
+memory. Do not use it. 
+Check out lru-cache if you 
+want a good and tested way 
+to coalesce async requests 
+by a key value, which is 
+much more comprehensive and 
+powerful.
+npm warn deprecated 
+is-data-descriptor@1.0.0: 
+Please upgrade to v1.0.1
+npm warn deprecated is-acces
+sor-descriptor@1.0.0: 
+Please upgrade to v1.0.1
+npm warn deprecated 
+is-data-descriptor@0.1.4: 
+Please upgrade to v0.1.5
+npm warn deprecated 
+is-data-descriptor@0.1.4: 
+Please upgrade to v0.1.5
+npm warn deprecated is-acces
+sor-descriptor@0.1.6: 
+Please upgrade to v0.1.7
+npm warn deprecated is-acces
+sor-descriptor@0.1.6: 
+Please upgrade to v0.1.7
+npm warn deprecated 
+is-data-descriptor@0.1.4: 
+Please upgrade to v0.1.5
+npm warn deprecated is-acces
+sor-descriptor@0.1.6: 
+Please upgrade to v0.1.7
+npm warn deprecated is-acces
+sor-descriptor@0.1.6: 
+Please upgrade to v0.1.7
+npm warn deprecated 
+is-data-descriptor@0.1.4: 
+Please upgrade to v0.1.5
+npm warn deprecated is-acces
+sor-descriptor@0.1.6: 
+Please upgrade to v0.1.7
+npm warn deprecated 
+is-data-descriptor@0.1.4: 
+Please upgrade to v0.1.5
+npm warn deprecated 
+stable@0.1.8: Modern JS 
+already guarantees 
+Array#sort() is a stable 
+sort, so this library is 
+deprecated. See the 
+compatibility table on MDN: 
+https://developer.mozilla.or
+g/en-US/docs/Web/JavaScript/
+Reference/Global_Objects/Arr
+ay/sort#browser_compatibilit
+y
+npm warn deprecated 
+keygrip@1.1.0: Package no 
+longer supported. Contact 
+Support at https://www.npmjs
+.com/support for more info.
+npm warn deprecated 
+source-map-resolve@0.6.0: 
+See https://github.com/lydel
+l/source-map-resolve#depreca
+ted
+npm warn deprecated 
+rimraf@2.6.3: Rimraf 
+versions prior to v4 are no 
+longer supported
+npm warn deprecated 
+urix@0.1.0: Please see https
+://github.com/lydell/urix#de
+precated
+npm warn deprecated 
+glob@5.0.15: Glob versions 
+prior to v9 are no longer 
+supported
+npm warn deprecated 
+glob@7.2.3: Glob versions 
+prior to v9 are no longer 
+supported
+npm warn deprecated 
+glob@7.2.3: Glob versions 
+prior to v9 are no longer 
+supported
+npm warn deprecated 
+glob@8.1.0: Glob versions 
+prior to v9 are no longer 
+supported
+npm warn deprecated 
+glob@7.1.7: Glob versions 
+prior to v9 are no longer 
+supported
+npm warn deprecated 
+glob@7.1.7: Glob versions 
+prior to v9 are no longer 
+supported
+npm warn deprecated 
+glob@7.1.6: Glob versions 
+prior to v9 are no longer 
+supported
+npm warn deprecated 
+glob@7.1.6: Glob versions 
+prior to v9 are no longer 
+supported
+npm warn deprecated 
+resolve-url@0.2.1: https://g
+ithub.com/lydell/resolve-url
+#deprecated
+npm warn deprecated 
+chokidar@2.1.8: Chokidar 2 
+does not receive security 
+updates since 2019. Upgrade 
+to chokidar 3 with 15x 
+fewer dependencies
+npm warn deprecated 
+source-map-resolve@0.5.3: 
+See https://github.com/lydel
+l/source-map-resolve#depreca
+ted
+npm warn deprecated 
+source-map-url@0.4.0: See ht
+tps://github.com/lydell/sour
+ce-map-url#deprecated
+npm warn deprecated 
+gulp-vinyl-zip@2.1.2: 
+Package no longer 
+supported. Contact Support 
+at https://www.npmjs.com/sup
+port for more info.
+npm warn deprecated 
+asar@3.0.3: Please use 
+@electron/asar moving 
+forward.  There is no API 
+change, just a package name 
+change
+npm warn deprecated 
+fstream@1.0.12: This 
+package is no longer 
+supported.
+npm warn deprecated 
+tar@2.2.2: This version of 
+tar is no longer supported, 
+and will not receive 
+security updates. Please 
+upgrade asap.
+npm warn deprecated 
+sinon@12.0.1: 16.1.1
+npm warn deprecated 
+@azure/core-http@2.3.2: 
+This package is no longer 
+supported. Please migrate 
+to use 
+@azure/core-rest-pipeline
+npm warn cleanup Failed to 
+remove some directories [
+npm warn cleanup   [
+npm warn cleanup     '\\\\?\
+\C:\\code\\vscode\\node_modu
+les\\@xterm',
+npm warn cleanup     
+[Error: EPERM: operation 
+not permitted, rmdir 'C:\cod
+e\vscode\node_modules\@xterm
+\xterm'] {
+npm warn cleanup       
+errno: -4048,
+npm warn cleanup       
+code: 'EPERM',
+npm warn cleanup       
+syscall: 'rmdir',
+npm warn cleanup       
+path: 'C:\\code\\vscode\\nod
+e_modules\\@xterm\\xterm'
+npm warn cleanup     }
+npm warn cleanup   ]
+npm warn cleanup ]
+npm error code 1
+npm error path C:\code\vscod
+e\node_modules\@vscode\devic
+eid
+npm error command failed
+npm error command 
+C:\WINDOWS\system32\cmd.exe 
+/d /s /c node-gyp rebuild
+npm error C:\Program Files 
+(x86)\Microsoft Visual Studi
+o\2022\BuildTools\MSBuild\Mi
+crosoft\VC\v170\Microsoft.Cp
+pBuild.targets(511,5): 
+error MSB8040: 
+Spectre-mitigated libraries 
+are required for this 
+project. Install them from 
+the Visual Studio installer 
+(Individual components tab) 
+for any toolsets and 
+architectures being used. 
+Learn more: 
+https://aka.ms/Ofhn4c [C:\co
+de\vscode\node_modules\@vsco
+de\deviceid\build\windows.vc
+xproj]
+npm error gyp info it 
+worked if it ends with ok
+npm error gyp info using 
+node-gyp@11.4.2
+npm error gyp info using 
+node@24.11.1 | win32 | x64
+npm error gyp info find 
+Python using Python version 
+3.13.7 found at "C:\Users\yo
+usu\AppData\Local\Programs\P
+ython\Python313\python.exe"
+npm error gyp info find VS 
+using VS2022 
+(17.14.36811.4) found at:
+npm error gyp info find VS 
+"C:\Program Files 
+(x86)\Microsoft Visual 
+Studio\2022\BuildTools"
+npm error gyp info find VS 
+run with --verbose for 
+detailed information
+npm error gyp info spawn C:\
+Users\yousu\AppData\Local\Pr
+ograms\Python\Python313\pyth
+on.exe
+npm error gyp info spawn 
+args [
+npm error gyp info spawn 
+args 'C:\\Program Files\\nod
+ejs\\node_modules\\npm\\node
+_modules\\node-gyp\\gyp\\gyp
+_main.py',
+npm error gyp info spawn 
+args 'binding.gyp',
+npm error gyp info spawn 
+args '-f',
+npm error gyp info spawn 
+args 'msvs',
+npm error gyp info spawn 
+args '-I',
+npm error gyp info spawn 
+args 'C:\\code\\vscode\\node
+_modules\\@vscode\\deviceid\
+\build\\config.gypi',
+npm error gyp info spawn 
+args '-I',
+npm error gyp info spawn 
+args 'C:\\Program Files\\nod
+ejs\\node_modules\\npm\\node
+_modules\\node-gyp\\addon.gy
+pi',
+npm error gyp info spawn 
+args '-I',
+npm error gyp info spawn 
+args 'C:\\Users\\yousu\\AppD
+ata\\Local\\node-gyp\\Cache\
+\39.2.7\\include\\node\\comm
+on.gypi',
+npm error gyp info spawn 
+args 
+'-Dlibrary=shared_library',
+npm error gyp info spawn 
+args '-Dvisibility=default',
+npm error gyp info spawn 
+args '-Dnode_root_dir=C:\\Us
+ers\\yousu\\AppData\\Local\\
+node-gyp\\Cache\\39.2.7',
+npm error gyp info spawn 
+args 
+'-Dnode_gyp_dir=C:\\Program 
+Files\\nodejs\\node_modules\
+\npm\\node_modules\\node-gyp
+',
+npm error gyp info spawn 
+args '-Dnode_lib_file=C:\\\\
+Users\\\\yousu\\\\AppData\\\
+\Local\\\\node-gyp\\\\Cache\
+\\\39.2.7\\\\<(target_arch)\
+\\\node.lib',
+npm error gyp info spawn 
+args '-Dmodule_root_dir=C:\\
+code\\vscode\\node_modules\\
+@vscode\\deviceid',
+npm error gyp info spawn 
+args '-Dnode_engine=v8',
+npm error gyp info spawn 
+args '--depth=.',
+npm error gyp info spawn 
+args '--no-parallel',
+npm error gyp info spawn 
+args '--generator-output',
+npm error gyp info spawn 
+args 'C:\\code\\vscode\\node
+_modules\\@vscode\\deviceid\
+\build',
+npm error gyp info spawn 
+args '-Goutput_dir=.'
+npm error gyp info spawn 
+args ]
+npm error gyp info spawn 
+C:\Program Files 
+(x86)\Microsoft Visual Studi
+o\2022\BuildTools\MSBuild\Cu
+rrent\Bin\MSBuild.exe
+npm error gyp info spawn 
+args [
+npm error gyp info spawn 
+args 'build/binding.sln',
+npm error gyp info spawn 
+args 
+'/clp:Verbosity=minimal',
+npm error gyp info spawn 
+args '/nologo',
+npm error gyp info spawn 
+args '/nodeReuse:false',
+npm error gyp info spawn 
+args '/p:Configuration=Relea
+se;Platform=x64'
+npm error gyp info spawn 
+args ]
+npm error gyp ERR! build 
+error 
+npm error gyp ERR! stack 
+Error: `C:\Program Files 
+(x86)\Microsoft Visual Studi
+o\2022\BuildTools\MSBuild\Cu
+rrent\Bin\MSBuild.exe` 
+failed with exit code: 1
+npm error gyp ERR! stack at 
+ChildProcess.<anonymous> 
+(C:\Program Files\nodejs\nod
+e_modules\npm\node_modules\n
+ode-gyp\lib\build.js:219:23)
+npm error gyp ERR! stack at 
+ChildProcess.emit 
+(node:events:508:28)
+npm error gyp ERR! stack at 
+ChildProcess._handle.onexit 
+(node:internal/child_process
+:294:12)
+npm error gyp ERR! System 
+Windows_NT 10.0.26200
+npm error gyp ERR! command 
+"C:\\Program 
+Files\\nodejs\\node.exe" 
+"C:\\Program Files\\nodejs\\
+node_modules\\npm\\node_modu
+les\\node-gyp\\bin\\node-gyp
+.js" "rebuild"
+npm error gyp ERR! cwd C:\co
+de\vscode\node_modules\@vsco
+de\deviceid
+npm error gyp ERR! node -v 
+v24.11.1
+npm error gyp ERR! node-gyp 
+-v v11.4.2
+npm error gyp ERR! not ok
+npm error A complete log of 
+this run can be found in: C:
+\Users\yousu\AppData\Local\n
+pm-cache\_logs\2026-01-04T13
+_02_25_648Z-debug-0.log
