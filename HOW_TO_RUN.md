@@ -73,9 +73,3 @@ That's it! Just 3 steps:
 Your Som DVPS will launch! 🎉
 
 
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/yousumohamed/Som-Dvps-Code1.git
-git push -u origin main --force

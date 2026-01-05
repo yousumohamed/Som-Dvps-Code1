@@ -1,9 +1,9 @@
 {
   "name": "code-oss-dev",
-  "version": "1.108.0",
+  "version": "1.0.0",
   "distro": "1133c0369c2db6f38f7f0e99737dc4770d393748",
   "author": {
-    "name": "Microsoft Corporation"
+    "name": "Som DVPS Team"
   },
   "license": "MIT",
   "main": "./out/main.js",
@@ -11,6 +11,8 @@
   "private": true,
   "scripts": {
     "test": "echo Please run any of the test scripts from the scripts folder.",
+    "start": "\".build/electron/Code - OSS.exe\" .",
+    "som-dvps": "SOM_DVPS.bat",
     "test-browser": "npx playwright install && node test/unit/browser/index.js",
     "test-browser-no-install": "node test/unit/browser/index.js",
     "test-node": "mocha test/unit/node/index.js --delay --ui=tdd --timeout=5000 --exit",

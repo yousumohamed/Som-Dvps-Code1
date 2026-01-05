@@ -1,7 +1,7 @@
 {
 	"nameShort": "Som DVPS",
-	"nameLong": "Code - OSS",
-	"applicationName": "code-oss",
+	"nameLong": "Som DVPS",
+	"applicationName": "som-dvps",
 	"dataFolderName": ".vscode-oss",
 	"win32MutexName": "vscodeoss",
 	"licenseName": "MIT",
