@@ -73,3 +73,19 @@ That's it! Just 3 steps:
 Your Som DVPS will launch! 🎉
 
 
+
+The Installer (Send this to users):
+
+`Location: c:\code\vscode\.build\win32-x64\system-setup\`
+
+### File Name: VSCodeSetup.exe (Running this starts the installation with the progress bar).
+
+### The Application (For you to test):
+
+`Location: c:\code\VSCode-win32-x64\`
+
+### File Name: Som DVPS.exe (This is the actual app running without installation).
+
+### Important: The folder VSCode-win32-x64 is located outside your vscode project folder (in c:\code\).
+
+### If fix_build.bat fails, let me know, and we can check the new logs.

@@ -26,3 +26,6 @@ vscode-telemetry-docs/
 launch_error.txt
 run_log.txt
 electron_log.txt
+
+# Build output folders
+../VSCode-win32-x64/
