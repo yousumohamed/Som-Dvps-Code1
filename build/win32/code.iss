@@ -8,10 +8,10 @@
 AppId={#AppId}
 AppName={#NameLong}
 AppVerName={#NameVersion}
-AppPublisher=Som DVPS
-AppPublisherURL=https://som-music-admin.vercel.app/contact
+AppPublisher=Som DVPS yf
+AppPublisherURL=https://som-dvps-code.vercel.app/docs
 AppSupportURL=mailto:josevaultv.1@gmail.com
-AppUpdatesURL=https://som-music-admin.vercel.app/
+AppUpdatesURL=https://som-dvps-code.vercel.app/
 DefaultGroupName={#NameLong}
 AllowNoIcons=yes
 OutputDir={#OutputDir}

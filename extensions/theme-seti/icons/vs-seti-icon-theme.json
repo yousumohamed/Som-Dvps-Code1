@@ -22,6 +22,12 @@
 		}
 	],
 	"iconDefinitions": {
+		"_empty": {
+			"fontCharacter": " "
+		},
+		"_google_folder": {
+			"iconPath": "./folder.svg"
+		},
 		"_R_light": {
 			"fontCharacter": "\\E001",
 			"fontColor": "#498ba7"
@@ -1554,6 +1560,11 @@
 			"fontColor": "#6d8086"
 		}
 	},
+	"hidesExplorerArrows": false,
+	"folder": "_google_folder",
+	"folderExpanded": "_google_folder",
+	"rootFolder": "_google_folder",
+	"rootFolderExpanded": "_google_folder",
 	"file": "_default",
 	"fileExtensions": {
 		"bsl": "_bsl",

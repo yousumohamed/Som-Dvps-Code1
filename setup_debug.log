@@ -1,0 +1,18 @@
+
+> code-oss-dev@1.0.0 gulp
+> node --max-old-space-size=8192 ./node_modules/gulp/bin/gulp.js vscode-win32-x64-system-setup
+
+[[90m11:38:13[39m] Using gulpfile C:\code\vscode\gulpfile.mjs
+[[90m11:38:13[39m] Starting 'vscode-win32-x64-system-setup'...
+[[90m11:38:13[39m] Starting [36mclean-system-setup[39m ...
+[[90m11:38:13[39m] Finished [36mclean-system-setup[39m after [35m10 ms[39m
+[[90m11:38:13[39m] Starting [36mvscode-win32-x64-system-setup[39m ...
+[[90m11:38:13[39m] 'vscode-win32-x64-system-setup' errored after 19 ms
+[[90m11:38:13[39m] Error: ENOENT: no such file or directory, open 'C:\code\VSCode-win32-x64\resources\app\product.json'
+    at Module.readFileSync (node:fs:441:20)
+    at C:\code\vscode\build\gulpfile.vscode.win32.ts:83:37
+    at file:///C:/code/vscode/build/lib/task.ts:53:4
+    at new Promise (<anonymous>)
+    at _doExecute (file:///C:/code/vscode/build/lib/task.ts:50:9)
+    at _execute (file:///C:/code/vscode/build/lib/task.ts:40:8)
+    at result (file:///C:/code/vscode/build/lib/task.ts:85:10)

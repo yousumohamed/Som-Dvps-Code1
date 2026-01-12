@@ -24,17 +24,22 @@
 	"win32ShellNameShort": "S&om DVPS",
 	"win32TunnelServiceMutex": "vscodeoss-tunnelservice",
 	"win32TunnelMutex": "vscodeoss-tunnel",
+	"urlProtocol": "som-dvps",
 	"darwinBundleIdentifier": "com.visualstudio.code.oss",
 	"darwinProfileUUID": "47827DD9-4734-49A0-AF80-7E19B11495CC",
 	"darwinProfilePayloadUUID": "CF808BE7-53F3-46C6-A7E2-7EDB98A5E959",
 	"linuxIconName": "code-oss",
 	"licenseFileName": "LICENSE.txt",
-	"reportIssueUrl": "https://github.com/microsoft/vscode/issues/new",
-	"nodejsRepository": "https://nodejs.org",
-	"urlProtocol": "code-oss",
+	"copyFeedbackUrl": "mailto:josevaultv.1@gmail.com",
+	"keyboardShortcutsUrlMac": "https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf",
+	"keyboardShortcutsUrlLinux": "https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf",
+	"keyboardShortcutsUrlWin": "https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf",
+	"reportIssueUrl": "mailto:josevaultv.1@gmail.com",
+	"documentationUrl": "https://som-dvps-code.vercel.app/",
 	"extensionsGallery": {
 		"serviceUrl": "https://open-vsx.org/vscode/gallery",
-		"itemUrl": "https://open-vsx.org/vscode/item"
+		"itemUrl": "https://open-vsx.org/vscode/item",
+		"verifySignature": false
 	},
 	"webviewContentExternalBaseUrlTemplate": "https://{{uuid}}.vscode-cdn.net/insider/ef65ac1ba57f57f2a3961bfe94aa20481caca4c6/out/vs/workbench/contrib/webview/browser/pre/",
 	"builtInExtensions": [
